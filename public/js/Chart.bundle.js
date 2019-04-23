@@ -12956,7 +12956,7 @@ module.exports = function(Chart) {
 			return helpers.isArray(lines) ? lines : lines !== undefined ? [lines] : [];
 		},
 
-		// Get the footer and beforeFooter and afterFooter lines
+		// Get the footer.html.twig and beforeFooter and afterFooter lines
 		// Args are: (tooltipItem, data)
 		getFooter: function() {
 			var me = this;

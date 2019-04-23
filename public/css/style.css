@@ -873,7 +873,7 @@ ul.dropdown-menu.drp-mnu li {
     font-weight: normal;
     margin-top: .3em;
 }
-/*---footer---*/
+/*---footer.html.twig---*/
 .footer {
     background: #fff;
     padding: 1em;
@@ -897,7 +897,7 @@ ul.dropdown-menu.drp-mnu li {
 .footer  p a:hover{
 	text-decoration:underline;
 }
-/*---//footer---*/
+/*---//footer.html.twig---*/
 /*---main-content-start---*/
 .widget {
     width: 32%;

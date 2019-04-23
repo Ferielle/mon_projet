@@ -5,7 +5,7 @@ Monthly 2.0.5 by Kevin Thornbloom is licensed under a Creative Commons Attributi
 (function($) {
 	$.fn.extend({
 		monthly: function(options) {
-			// These are overridden by options declared in footer
+			// These are overridden by options declared in footer.html.twig
 			var defaults = {
 				weekStart: 'Sun',
 				mode: '',
